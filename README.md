@@ -49,5 +49,4 @@ This project demonstrates a fullstack setup using modern web development tools a
 
 ---
 
-> ⚠️ Disclaimer:  
 > This repository is intended for technical demonstration purposes only.
