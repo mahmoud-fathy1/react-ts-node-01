@@ -46,7 +46,3 @@ This project demonstrates a fullstack setup using modern web development tools a
 - Frontend and backend can run independently or together
 - Backend runs with **Nodemon** for auto-reloading
 - Deployment can be done via any platform (e.g., GitHub Pages for frontend, Vercel/Render for backend)
-
----
-
-> This repository is intended for technical demonstration purposes only.
